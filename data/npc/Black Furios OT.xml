@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<npc name="EvolutionBaiakOT" script="gm.lua" walkinterval="0" floorchange="0">
+    <health now="100" max="100"/>
+	<look typeex="10997" corpse="3128"/>
+<parameters>
+  <parameter key="message_greet" value="Olá |PLAYERNAME|! Quér uma mãozinha? diga doque você quér saber? {Supremacia}, {Vip}, {Task}, {Houses}, {Donates}, {Addons} , {Eventos} Para descubrir os comandos do server digite /commands,acesse nosso site: UnderBaiakOT.no-ip.biz" />
+  <parameter key="message_decline" value="Bye Bye." />
+  <parameter key="module_keywords" value="1" />
+  <parameter key="keywords" value="vip;supremacia;task;donates;houses;addons;eventos;" />
+  <parameter key="keyword_reply1" value="Você pode obter vip 1 e 2 através de quest e vip donate em eventos ou quest ou donatando." />
+  <parameter key="keyword_reply2" value="Supremacia é o addon de vocação o sorcerer é o addon mage,o druid é o druid,o knight é o warrior e o paladin é o assassin. Todos os addons supremacia dão alguma boa vantagem para a sua profissão." />
+  <parameter key="keyword_reply3" value="Task é o sistema de missões do servidor, o npc Grizzly Adams logo acima do templo. Saiba mais em nósso site"/>
+  <parameter key="keyword_reply4" value="Para você fazer uma doação siga os passos e fazendo uma doação você pode receber itens exclusivos e ainda ajuda a manter o servidor online."/>
+			  <parameter key="keyword_reply5" value="Você pode comprar casa no server normalmente com o comando !buyhouse e para sair dela fale !alana som dentro dela."/>
+			  <parameter key="keyword_reply6" value="Você pode adquirir addons no npc Varkhal, e pode adquirir a maiorinha dos itens comprando no npc Bulma,Outro modo seria com addon doll adquirindo pelo shop do site ou completando todas as tasks."/>
+			  <parameter key="keyword_reply7" value="Os eventos do nosso servidor são automaticos e com dia e horario marcado. Para saber mais sobre cada um acesse a pagina dos mesmos no site. [EvolutionOT.servegame.com]"/>
+</parameters>
+</npc>

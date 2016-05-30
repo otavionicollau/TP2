@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="A Wandering Soul" script="data/npc/scripts/long.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="351" head="9" body="85" legs="9" feet="0" addons="3"/>
+	<parameters>
+  <parameter key="message_greet" value="O jogadores por aqui aposto que veio atras da {Magic Long Sword} ! "/>
+    </parameters></npc>
