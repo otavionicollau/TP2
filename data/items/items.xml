@@ -2,6 +2,39 @@
 <items>
 
 	<!-- VIP -->
+		<!-- backpacks -->
+		<item id="23816" article="a" name="Baiak Backpack">
+				<attribute key="weight" value="1800" />
+				<attribute key="containerSize" value="100" />
+				<attribute key="slotType" value="backpack" />
+		</item>
+		<!-- MOEDA NO GAME -->
+			<item id="24774" name="Baiak Coin" />
+			<item id="15515" article="a" name="KK"/>
+		<!-- VIP SCROLL -->
+		<item id="16101" article="a" name="VIP SCROLL">
+			<attribute key="description" value="Usando este mapa ira adicionar 30 dias de VIP time em sua conta uma vez." />
+			<attribute key="weight" value="0" />
+		</item>
+		<!-- KEY ACESSOS -->
+		<item id="22604" article="a" name="Key I">
+			<attribute key="weight" value="200" />
+			<attribute key="description" value="Usando esta KEY te dara acesso a area I." />
+		</item>
+		<item id="22605" article="a" name="Key II">
+			<attribute key="weight" value="200" />
+			<attribute key="description" value="Usando esta KEY te dara acesso a area II." />
+		</item>
+		<item id="22606" article="a" name="Key III">
+			<attribute key="weight" value="200" />
+			<attribute key="description" value="Usando esta KEY te dara acesso a area III." />
+		</item>
+		<item id="22607" article="a" name="Key IV">
+			<attribute key="weight" value="200" />
+			<attribute key="description" value="Usando esta KEY te dara acesso a area IV." />
+		</item>
+
+
 
 
 		<!-- Baiak Set -->
@@ -2686,10 +2719,6 @@
 	</item>
 	<item id="23807" article="a" name="black knight doll">
 		<attribute key="description" value="My sad story is told by few living humans but many dead warriors." />
-		<attribute key="weight" value="1800" />
-	</item>
-	<item id="23816" article="a" name="war backpack">
-		<attribute key="description" value="Carry all you need for battle in it." />
 		<attribute key="weight" value="1800" />
 	</item>
 	<item id="2109" article="a" name="football" />
@@ -18126,7 +18155,7 @@
 		<attribute key="defense" value="25" />
 		<attribute key="speed" value="50" />
 		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="86400" />
+		<attribute key="duration" value="86400"/>
 		<attribute key="showduration" value="1" />
 	</item>
 	<item id="9957" article="a" name="yalahar coal basin" />
@@ -24592,9 +24621,7 @@
 		<attribute key="corpseType" value="blood" />
 	</item>
 	<item id="15501" article="a" name="dragon's nest" />
-	<item id="15515" article="a" name="bar of gold">
-		<attribute key="weight" value="2100" />
-	</item>
+
 	<item fromid="15516" toid="15535" article="a" name="lava stream" />
 	<item id="15536" name="stairs">
 		<attribute key="floorchange" value="down" />
@@ -24849,10 +24876,6 @@
 	<item id="16099" article="a" name="cake cabinet kit">
 		<attribute key="description" value="Use it in your house to construct a cake cabinet." />
 		<attribute key="weight" value="7500" />
-	</item>
-	<item id="16101" article="a" name="premium scroll">
-		<attribute key="description" value="Using this scroll will add 30 days of premium time to your account once." />
-		<attribute key="weight" value="0" />
 	</item>
 	<item id="16102" article="a" name="surprise nest">
 		<attribute key="weight" value="1000" />
@@ -30739,22 +30762,6 @@
 		<attribute key="description" value="This extraordinary smooth string feels quite cool to the touch." />
 		<attribute key="weight" value="40" />
 	</item>
-	<item id="22604" article="a" name="silver prison key">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="You dream that this key unlocks the prison of a powerful horror that you had to face on your own." />
-	</item>
-	<item id="22605" article="a" name="copper prison key">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="You dream that this key unlocks the prison of a powerful horror that you had to face on your own." />
-	</item>
-	<item id="22606" article="a" name="bronze prison key">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="You dream that this key unlocks the prison of a powerful horror that you had to face on your own." />
-	</item>
-	<item id="22607" article="a" name="golden prison key">
-		<attribute key="weight" value="200" />
-		<attribute key="description" value="You dream that this key unlocks the prison of a powerful horror that you had to face on your own." />
-	</item>
 	<item id="22381" article="a" name="ancient dream">
 		<attribute key="weight" value="15" />
 		<attribute key="description" value="The dream glows as if alive." />
@@ -32407,7 +32414,6 @@
 	<item id="24720" name="purple nightshade blossoms" />
 	<item id="24739" name="moonlight crystals" />
 	<item id="24730" name="closed silvered trap" />
-	<item id="24774" name="tibia coin" />
 	<item id="24118" name="nacre altar" />
 	<item id="24119" name="hoard of cursed gold" />
 	<item id="24120" name="stone snake shrine" />
