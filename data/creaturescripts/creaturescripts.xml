@@ -1,30 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <creaturescripts>
-	<!-- staffs -->
-	<event type="modalwindow" name="modalElements" script="modalElements.lua"/>
 
-	<!-- Battle Field -->
-	<event type="kill" name="AutoLoot" script="autoloot.lua" />
-	<event type="login" name="battleflogin" script="battlefield.lua"/>
-	<event type="preparedeath" name="battledeath" script="battlefield.lua"/>
+<!-- taks monsters acessos  -->
+<event type="kill" name="taskI" script="tasks/taski.lua"/>
+<event type="kill" name="taskII" script="tasks/taskii.lua"/>
+<event type="kill" name="taskIII" script="tasks/taskiii.lua"/>
+<event type="kill" name="taskIV" script="tasks/taskiv.lua"/>
 
-    <!-- Zombie Event -->
-    <event type="preparedeath" name="ZombiePlayerDeath" script="player/zombieEventDeath.lua" />
-    <event type="death" name="ZombieOnDeath" script="player/zombieEventDeath.lua" />
 
-<!-- Novas -->
-	<event type="advance" name="Promo20" event="script" value="promo20.lua"/>
-    <event type="modalwindow" name="tpw" script="teleport_window.lua"/>
-	<event type="modalwindow" name="modalAD" script="modalAD.lua"/>
-    <event type="modalwindow" name="modalMD" script="modalMD.lua"/>
+  <!-- staffs -->
+  <event type="modalwindow" name="modalElements" script="modalElements.lua"/>
+  <!-- Battle Field -->
+  <event type="kill" name="AutoLoot" script="autoloot.lua" />
+  <event type="login" name="battleflogin" script="battlefield.lua"/>
+  <event type="preparedeath" name="battledeath" script="battlefield.lua"/>
+  <!-- Zombie Event -->
+  <event type="preparedeath" name="ZombiePlayerDeath" script="player/zombieEventDeath.lua" />
+  <event type="death" name="ZombieOnDeath" script="player/zombieEventDeath.lua" />
+  <!-- Novas -->
+  <event type="advance" name="Promo20" event="script" value="promo20.lua"/>
+  <event type="modalwindow" name="tpw" script="teleport_window.lua"/>
+  <event type="modalwindow" name="modalAD" script="modalAD.lua"/>
+  <event type="modalwindow" name="modalMD" script="modalMD.lua"/>
+  <event type="login" name="PlayerLogin" script="login.lua" />
+  <event type="logout" name="PlayerLogout" script="logout.lua" />
+  <event type="login" name="FirstItems" script="firstitems.lua" />
+  <event type="login" name="OfflineTraining" script="offlinetraining.lua" />
+  <event type="login" name="RegenerateStamina" script="regeneratestamina.lua" />
+  <event type="death" name="PlayerDeath" script="playerdeath.lua" />
+  <event type="death" name="DropLoot" script="droploot.lua" />
+  <event type="extendedopcode" name="ExtendedOpcode" script="extendedopcode.lua" />
+  <event type="kill" name="RewardLoot" script="rewardloot.lua"/>
 
-	<event type="login" name="PlayerLogin" script="login.lua" />
-	<event type="logout" name="PlayerLogout" script="logout.lua" />
-	<event type="login" name="FirstItems" script="firstitems.lua" />
-	<event type="login" name="OfflineTraining" script="offlinetraining.lua" />
-	<event type="login" name="RegenerateStamina" script="regeneratestamina.lua" />
-	<event type="death" name="PlayerDeath" script="playerdeath.lua" />
-	<event type="death" name="DropLoot" script="droploot.lua" />
-	<event type="extendedopcode" name="ExtendedOpcode" script="extendedopcode.lua" />
-	<event type="kill" name="RewardLoot" script="rewardloot.lua"/>
+
+	<!-- bosses -->
+	<event type="think" name="Gaz'haragoth heal" script="bosses/gaz'haragoth heal.lua"/>
+	<event type="think" name="omrafir explode" script="bosses/omrafir explode.lua"/>
 </creaturescripts>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Otavio Baiak" script="acessos/acesso.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100" />
+	<look type="130" head="94" body="114" legs="114" feet="94" addons="3" />
+	<parameters>
+		<parameter key="message_greet" value="Ola, |PLAYERNAME|! tenho varias chaves preciosas! Diga {trade} e vamos negociar?" />
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="key Acesso I,22604,1500000;key Acesso II,22605,3000000;key Acesso III,22606,6000000;key Acesso IV,22607,9000000;" />
+	</parameters>
+</npc>

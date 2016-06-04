@@ -11,9 +11,12 @@
 
   <action itemid="24759" script="vip3item.lua"/>
   <!-- Vips -->
-  <action uniqueid="12122" script="vips/vip3.lua"/>
-  <action uniqueid="12123" script="vips/vip2.lua"/>
-  <action uniqueid="12124" script="vips/vip1.lua"/>
+
+  <action uniqueid="22606" script="vips/vip3.lua"/>
+  <action uniqueid="22605" script="vips/vip2.lua"/>
+  <action uniqueid="22604" script="vips/vip1.lua"/>
+
+
   <action itemid="10503" script="presente.lua" />
   <!-- Novas King Potion -->
   <action itemid="12328" script="kingpotion.lua" />
@@ -305,7 +308,6 @@
   <action uniqueid="1609" script="staff.lua" />
   <action uniqueid="1606" script="bonus2.lua" />
   <action uniqueid="1804" script="amulet.lua" />
-  <action uniqueid="1805" script="vip2.lua" />
   <action uniqueid="13541" script="vipchest.lua" />
   <action uniqueid="1701" script="vipquest.lua" />
   <action uniqueid="1702" script="vipquest.lua" />
@@ -410,6 +412,8 @@
   <action itemid="2148" script="other/changegold.lua" />
   <action itemid="2152" script="other/changegold.lua" />
   <action itemid="2160" script="other/changegold.lua" />
+  <action itemid="15515" script="other/changegold.lua" />
+<!--  <action itemid="24774" script="other/changegold.lua" /> -->
   <action fromid="3901" toid="3938" script="other/constructionkits.lua" />
   <action fromid="5086" toid="5088" script="other/constructionkits.lua" />
   <action itemid="6114" script="other/constructionkits.lua" />
@@ -533,7 +537,6 @@
   <action uniqueid="7522" script="ziiiiiik.lua"/>
   <action actionid="9803" script="porta3.lua"/>
   <action actionid="9802" script="porta2.lua"/>
-  <action itemid="8985" script="vip8.lua"/>
   <action itemid="10000" script="staminainfinita.lua"/>
   <action itemid="5669" script="redskull.lua"/>
 

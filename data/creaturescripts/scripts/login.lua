@@ -38,17 +38,21 @@ function onLogin(player)
 	player:registerEvent("tpw")
 	player:registerEvent("DodgeSystem")
 	player:registerEvent("CriticalSystem")
-     player:registerEvent("Promo20")
-     player:registerEvent("AutoLoot")
+	player:registerEvent("Promo20")
+  player:registerEvent("AutoLoot")
+	player:registerEvent("taskI")
+	player:registerEvent("taskII")
+	player:registerEvent("taskIII")
+	player:registerEvent("taskIV")
 
 -- Critical System
 if player:getCriticalLevel() == -1 then
-	player:setCriticalLevel(0) 
+	player:setCriticalLevel(0)
 end
 
 -- Dodge System
 if player:getDodgeLevel() == -1 then
-    player:setDodgeLevel(0) 
+    player:setDodgeLevel(0)
 end
 	return true
 end
