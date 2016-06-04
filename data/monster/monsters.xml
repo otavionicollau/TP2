@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
   <!-- ACESSO 1 ! -->
+  <monster name="baiak pancada" file="baiak pancada.xml"/>
   <monster name="Demon I" file="ACESSO1/demon.xml"/>
   <monster name="Hydra I" file="ACESSO1/hydra.xml"/>
   <monster name="Grim Reaper I" file="ACESSO1/grim reaper.xml"/>
