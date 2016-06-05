@@ -15445,9 +15445,10 @@
 	</spawn>
 	<spawn centerx="136" centery="44" centerz="7" radius="1" />
 	<spawn centerx="143" centery="44" centerz="7" radius="1">
-		<npc name="Ring Seller" x="-1" y="1" z="7" spawntime="60" direction="2" />
+		<npc name="Otavio" x="-1" y="1" z="7" spawntime="60" direction="2" />
 	</spawn>
 	<spawn centerx="724" centery="44" centerz="7" radius="5" />
+	<spawn centerx="142" centery="45" centerz="7" radius="1" />
 	<spawn centerx="149" centery="45" centerz="7" radius="1">
 		<monster name="Training Monk" x="0" y="0" z="7" spawntime="20" />
 	</spawn>
