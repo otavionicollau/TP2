@@ -8,6 +8,11 @@
 <event type="kill" name="taskIV" script="tasks/taskiv.lua"/>
 
 
+<!-- tasks -->
+<event type="modalwindow" name="modalTaskI" script="ACESSOS/modalAcessoI.lua"/>
+<event type="modalwindow" name="modalTaskII" script="ACESSOS/modalAcessoII.lua"/>
+<event type="modalwindow" name="modalTaskIII" script="ACESSOS/modalAcessoIII.lua"/>
+<event type="modalwindow" name="modalTaskIV" script="ACESSOS/modalAcessoIV.lua"/>
   <!-- staffs -->
   <event type="modalwindow" name="modalElements" script="modalElements.lua"/>
   <!-- Battle Field -->

@@ -8,13 +8,12 @@
   <action itemid="12327" script="staffs/staff.lua"/>
   <action itemid="24839" script="staffs/staff.lua"/>
 
-
-  <action itemid="24759" script="vip3item.lua"/>
   <!-- Vips -->
 
-  <action uniqueid="22606" script="vips/vip3.lua"/>
-  <action uniqueid="22605" script="vips/vip2.lua"/>
-  <action uniqueid="22604" script="vips/vip1.lua"/>
+  <action itemid="22607" script="acessos/IV.lua"/>
+  <action itemid="22606" script="acessos/III.lua"/>
+  <action itemid="22605" script="acessos/II.lua"/>
+  <action itemid="22604" script="acessos/I.lua"/>
 
 
   <action itemid="10503" script="presente.lua" />
@@ -308,13 +307,7 @@
   <action uniqueid="1609" script="staff.lua" />
   <action uniqueid="1606" script="bonus2.lua" />
   <action uniqueid="1804" script="amulet.lua" />
-  <action uniqueid="13541" script="vipchest.lua" />
-  <action uniqueid="1701" script="vipquest.lua" />
-  <action uniqueid="1702" script="vipquest.lua" />
-  <action uniqueid="1703" script="vipquest.lua" />
-  <action uniqueid="1704" script="vipquest.lua" />
-  <action uniqueid="1705" script="vipquest.lua" />
-  <action uniqueid="1706" script="vipquest.lua" />
+
   <action uniqueid="1002" script="demonhelmet.lua" />
   <action uniqueid="1003" script="demonhelmet.lua" />
   <action uniqueid="7502" script="necrochest.lua" />
