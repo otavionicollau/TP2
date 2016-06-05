@@ -19,19 +19,19 @@
 		<!-- KEY ACESSOS -->
 		<item id="22604" article="a" name="Key I">
 			<attribute key="weight" value="200" />
-			<attribute key="description" value="Usando esta KEY te dara acesso a area I." />
+			<attribute key="description" value="Key da Task para o acesso da area I" />
 		</item>
 		<item id="22605" article="a" name="Key II">
 			<attribute key="weight" value="200" />
-			<attribute key="description" value="Usando esta KEY te dara acesso a area II." />
+			<attribute key="description" value="Key da Task para o acesso da area II" />
 		</item>
 		<item id="22606" article="a" name="Key III">
 			<attribute key="weight" value="200" />
-			<attribute key="description" value="Usando esta KEY te dara acesso a area III." />
+			<attribute key="description" value="Key da Task para o acesso da area III" />
 		</item>
 		<item id="22607" article="a" name="Key IV">
 			<attribute key="weight" value="200" />
-			<attribute key="description" value="Usando esta KEY te dara acesso a area IV." />
+			<attribute key="description" value="Key da Task para o acesso da area IV" />
 		</item>
 
 
