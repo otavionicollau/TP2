@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <actions>
+
+  <!-- Eges -->
+  <action itemid="11144" script="otavio/eges.lua"/>
+
   <!-- STAFFS -->
 
   <action itemid="25421" script="staffs/staff.lua"/>
