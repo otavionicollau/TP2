@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-  <monster name="Baiak Pancada" nameDescription="a Baiak Pancada" race="blood" experience="69990" speed="1" manacost="0">
-    <health now="590000" max="590000"/>
-    <look type="312" corpse="9660"/>
+  <monster name="Baiak Treiner" nameDescription="a Baiak Pancada" race="blood" experience="69990" speed="1" manacost="0">
+    <health now="59000000" max="59000000"/>
+    <look type="102" corpse="2253"/>
     <targetchange interval="10000" chance="0"/>
     <strategy attack="100" defense="0"/>
     <flags>
@@ -18,8 +18,14 @@
       <flag targetdistance="1"/>
       <flag runonhealth="1"/>
     </flags>
+    <voices interval="2000" chance="10">
+    <voice sentence="E bom voce treinar mais...." yell="1"/>
+    <voice sentence="voce estar muito flaco...." yell="1"/>
+    <voice sentence="Flacote!..." yell="1"/>
+    <voice sentence="hahahuhuuhH..." yell="1"/>
+  </voices>
     <attacks>
-      <attack name="melee" interval="2000" attack="100" skill="600"/>
+      <attack name="melee" interval="2000" attack="40" skill="100"/>
         <attack name="outfit" interval="2000" radius="77" chance="6" monster="bat" duration="6000">
             <attribute key="areaEffect" value="yellowspark"/>
              </attack>

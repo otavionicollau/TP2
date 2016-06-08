@@ -30524,6 +30524,13 @@
 		<monster name="Draken Warmaster" x="-3" y="29" z="8" spawntime="60" />
 		<monster name="Draken Warmaster" x="10" y="29" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="51" centery="158" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="158" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="1999" centery="158" centerz="8" radius="30">
 		<monster name="Draken Warmaster" x="-26" y="-25" z="8" spawntime="60" />
 		<monster name="Draken Warmaster" x="-25" y="-13" z="8" spawntime="60" />
@@ -30532,11 +30539,32 @@
 		<monster name="Draken Warmaster" x="-24" y="18" z="8" spawntime="60" />
 		<monster name="Draken Warmaster" x="-26" y="27" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="54" centery="159" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="300" centery="160" centerz="8" radius="1">
 		<monster name="Demodras" x="-1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="53" centery="162" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="162" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="163" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="353" centery="164" centerz="8" radius="1">
 		<monster name="Demodras" x="-1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="51" centery="165" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="54" centery="165" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
 	</spawn>
 	<spawn centerx="1638" centery="165" centerz="8" radius="30">
 		<monster name="Battlemaster Zunzu" x="-25" y="-30" z="8" spawntime="60" />
@@ -30565,13 +30593,77 @@
 		<monster name="Battlemaster Zunzu" x="-25" y="12" z="8" spawntime="60" />
 		<monster name="Battlemaster Zunzu" x="-26" y="27" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="54" centery="168" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="170" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="170" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="557" centery="170" centerz="8" radius="5">
 		<monster name="Fluffy" x="1" y="-5" z="8" spawntime="60" />
 		<monster name="Hellhound" x="5" y="3" z="8" spawntime="60" />
 		<monster name="Hellhound" x="-5" y="5" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="48" centery="171" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="60" centery="171" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="62" centery="171" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="171" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="81" centery="171" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="171" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="86" centery="171" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="50" centery="172" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="172" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="173" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="271" centery="173" centerz="8" radius="1">
 		<monster name="Demodras" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="52" centery="174" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="55" centery="174" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="81" centery="174" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="174" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="86" centery="174" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="300" centery="174" centerz="8" radius="1">
 		<monster name="Demodras" x="0" y="-1" z="8" spawntime="60" />
@@ -30579,31 +30671,378 @@
 	<spawn centerx="343" centery="174" centerz="8" radius="1">
 		<monster name="Demodras" x="1" y="1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="47" centery="175" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="60" centery="175" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="62" centery="175" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="573" centery="175" centerz="8" radius="5">
 		<monster name="Hellhound" x="2" y="-4" z="8" spawntime="60" />
 		<monster name="Juggernaut" x="-4" y="3" z="8" spawntime="60" />
 		<monster name="Hellhound" x="1" y="5" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="34" centery="176" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="176" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="41" centery="177" centerz="8" radius="1">
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="44" centery="177" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="177" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Mae" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="177" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="59" centery="177" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="81" centery="177" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="177" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="86" centery="177" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="31" centery="178" centerz="8" radius="1" />
+	<spawn centerx="39" centery="178" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="61" centery="178" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="67" centery="178" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="71" centery="178" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="73" centery="178" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="76" centery="178" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="543" centery="178" centerz="8" radius="5">
 		<monster name="Hellhound" x="4" y="2" z="8" spawntime="60" />
 		<monster name="Hellhound" x="-3" y="4" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="42" centery="179" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="45" centery="179" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="179" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="63" centery="179" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="81" centery="179" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="180" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="86" centery="180" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="181" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="30" centery="181" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="181" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="36" centery="181" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="44" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm Mae" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="47" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="68" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="71" centery="181" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="78" centery="181" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
 	<spawn centerx="290" centery="181" centerz="8" radius="1">
 		<monster name="Demodras" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="40" centery="182" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="44" centery="183" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="183" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="55" centery="183" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="62" centery="183" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="78" centery="183" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="81" centery="183" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="83" centery="183" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="86" centery="183" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="271" centery="183" centerz="8" radius="1">
 		<monster name="Demodras" x="0" y="-1" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="27" centery="184" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="30" centery="184" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="184" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="49" centery="184" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="184" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="184" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="41" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="47" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="59" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="67" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="70" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="-1" y="-1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="73" centery="185" centerz="8" radius="1">
+		<monster name="Rotworm" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="43" centery="186" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="49" centery="186" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="186" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="277" centery="186" centerz="8" radius="1">
 		<monster name="Demodras" x="1" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="27" centery="187" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="30" centery="187" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="33" centery="187" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="36" centery="187" centerz="8" radius="1">
+		<monster name="Baiak Pancada" x="0" y="0" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="41" centery="187" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="75" centery="187" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
 	</spawn>
 	<spawn centerx="582" centery="187" centerz="8" radius="5">
 		<monster name="Hellhound" x="3" y="-4" z="8" spawntime="60" />
 		<monster name="Hellhound" x="4" y="4" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="55" centery="188" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="61" centery="188" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="79" centery="188" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="81" centery="188" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="38" centery="189" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="49" centery="189" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="-1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="189" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="189" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="189" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="189" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="46" centery="190" centerz="8" radius="1">
+		<monster name="Dragon" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="62" centery="191" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="70" centery="191" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="541" centery="191" centerz="8" radius="5">
 		<monster name="Hellhound" x="0" y="-4" z="8" spawntime="60" />
 		<monster name="Hellhound" x="4" y="1" z="8" spawntime="60" />
+	</spawn>
+	<spawn centerx="46" centery="192" centerz="8" radius="1" />
+	<spawn centerx="69" centery="194" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="45" centery="196" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="196" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="199" centerz="8" radius="10">
+		<monster name="Dragon Lord" x="10" y="-10" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="10" y="-8" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="0" y="-6" z="8" spawntime="10" />
+		<monster name="Rotworm" x="5" y="-6" z="8" spawntime="10" />
+		<monster name="Dragon" x="9" y="-5" z="8" spawntime="10" />
+		<monster name="Dragon" x="-7" y="-4" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="2" y="-4" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="3" y="-4" z="8" spawntime="10" />
+		<monster name="Dragon" x="-9" y="-3" z="8" spawntime="10" />
+		<monster name="Rotworm" x="4" y="-3" z="8" spawntime="10" />
+		<monster name="Dragon" x="7" y="-3" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="-6" y="-2" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="-2" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-1" y="-1" z="8" spawntime="10" />
+		<monster name="Dragon" x="-6" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="3" y="0" z="8" spawntime="10" />
+		<monster name="Dragon" x="7" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-2" y="1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="-7" y="2" z="8" spawntime="10" />
+		<monster name="Rotworm" x="4" y="2" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-3" y="3" z="8" spawntime="10" />
+		<monster name="Dragon Lord" x="7" y="3" z="8" spawntime="10" />
+		<monster name="Rotworm" x="2" y="4" z="8" spawntime="10" />
+		<monster name="Dragon" x="-7" y="5" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-3" y="5" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-4" y="6" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="6" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="2" y="6" z="8" spawntime="10" />
+		<monster name="Dragon" x="7" y="6" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-4" y="7" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-2" y="7" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="7" z="8" spawntime="10" />
+		<monster name="Dragon" x="-7" y="8" z="8" spawntime="10" />
+		<monster name="Rotworm" x="3" y="9" z="8" spawntime="10" />
+		<monster name="Dragon" x="7" y="9" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-2" y="10" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="10" z="8" spawntime="60" />
 	</spawn>
 	<spawn centerx="578" centery="199" centerz="8" radius="5">
 		<monster name="Hellhound" x="-1" y="-4" z="8" spawntime="60" />
@@ -30617,7 +31056,40 @@
 		<monster name="Hellhound" x="3" y="-2" z="8" spawntime="60" />
 		<monster name="Hellhound" x="1" y="5" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="59" centery="203" centerz="8" radius="1" />
+	<spawn centerx="54" centery="204" centerz="8" radius="1" />
 	<spawn centerx="544" centery="205" centerz="8" radius="5" />
+	<spawn centerx="53" centery="206" centerz="8" radius="1" />
+	<spawn centerx="55" centery="206" centerz="8" radius="1" />
+	<spawn centerx="58" centery="206" centerz="8" radius="1" />
+	<spawn centerx="60" centery="208" centerz="8" radius="1" />
+	<spawn centerx="55" centery="209" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="210" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="53" centery="210" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="210" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm Queen" x="1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="1" z="8" spawntime="60" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="59" centery="210" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="61" centery="211" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="211" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="499" centery="211" centerz="8" radius="10">
 		<monster name="Banshee" x="-1" y="-6" z="8" spawntime="60" />
 		<monster name="Banshee" x="1" y="-6" z="8" spawntime="60" />
@@ -30659,6 +31131,9 @@
 		<monster name="Juggernaut" x="0" y="-1" z="8" spawntime="60" />
 		<monster name="Orshabaal" x="4" y="2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="52" centery="212" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="516" centery="212" centerz="8" radius="5">
 		<monster name="Juggernaut" x="-5" y="-4" z="8" spawntime="60" />
 		<monster name="Orshabaal" x="4" y="-1" z="8" spawntime="60" />
@@ -30669,11 +31144,115 @@
 		<monster name="Hellhound" x="4" y="-4" z="8" spawntime="60" />
 		<monster name="Hellhound" x="-2" y="3" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="50" centery="213" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="54" centery="213" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="58" centery="213" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="-1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="59" centery="213" centerz="8" radius="1">
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="214" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="214" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="54" centery="215" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="-1" y="1" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="59" centery="215" centerz="8" radius="1">
+		<monster name="Rotworm" x="-1" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="216" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="61" centery="216" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="58" centery="217" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="217" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="545" centery="217" centerz="8" radius="5">
 		<monster name="Hellhound" x="-4" y="-5" z="8" spawntime="60" />
 		<monster name="Hellhound" x="-2" y="-2" z="8" spawntime="60" />
 	</spawn>
+	<spawn centerx="54" centery="218" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="218" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="60" centery="218" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="60" />
+		<monster name="Rotworm Queen" x="0" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="219" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="58" centery="219" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="54" centery="220" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="60" centery="220" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="220" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="50" centery="222" centerz="8" radius="1">
+		<monster name="Dragon" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="57" centery="222" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm Queen" x="1" y="1" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="55" centery="223" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="64" centery="223" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="60" centery="224" centerz="8" radius="1">
+		<monster name="Rotworm Queen" x="-1" y="0" z="8" spawntime="10" />
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="225" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="56" centery="225" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="58" centery="225" centerz="8" radius="1">
+		<monster name="Rotworm" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="556" centery="225" centerz="8" radius="4" />
+	<spawn centerx="64" centery="226" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="51" centery="228" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
+	<spawn centerx="63" centery="228" centerz="8" radius="1">
+		<monster name="Dragon Lord" x="0" y="0" z="8" spawntime="10" />
+	</spawn>
 	<spawn centerx="2181" centery="257" centerz="8" radius="30" />
 	<spawn centerx="1641" centery="263" centerz="8" radius="30">
 		<monster name="Ghastly Dragon" x="10" y="-17" z="8" spawntime="60" />
