@@ -2,14 +2,12 @@
 <actions>
 
   <!-- Eges -->
-  <action itemid="11144" script="otavio/demon iv.lua"/>
-  <action itemid="13030" script="otavio/paiz the pauperizer.lua"/>
-  <action itemid="22642" script="otavio/demon iv.lua"/>
-  <action itemid="13559" script="otavio/Ferumbras iv.lua"/>
-  <action itemid="11754" script="otavio/demon iv.lua"/>
-  <action itemid="5791" script="otavio/Ferumbras iv.lua"/>
-  <action itemid="23807" script="otavio/demon iv.lua"/>
-  <action itemid="24331" script="otavio/Ferumbras iv.lua"/>
+  <action itemid="11144" script="otavio/orshabaal.lua"/>
+  <action itemid="13030" script="otavio/paiz_the_pauperizer.lua"/>
+  <action itemid="22642" script="otavio/frazzlemaw.lua"/>
+  <action itemid="11754" script="otavio/ferumbras.lua"/>
+  <action itemid="5791" script="otavio/demondras.lua"/>
+  <action itemid="23807" script="otavio/black_knight.lua"/>
   <action itemid="16107" script="otavio/Radom.lua"/>
 
 

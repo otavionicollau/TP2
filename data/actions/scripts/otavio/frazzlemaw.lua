@@ -1,13 +1,13 @@
 function onUse(player, item, frompos, item2, topos)
 
-	local monsterName = "Demon IV"
+	local monsterName = "[BONUS] guzzlemaw"
 	local position = player:getPosition()
-	local max = 5
+	local max = 7
 	local min = 1
 	local limite = math.random(min, max)
 	local atual = 0;
 	local porcentagem = 100
-	local item = 11144
+	local item = 22642
 
 
 

@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <monsters>
-  <!-- ACESSO 1 ! -->
   <monster name="baiak pancada" file="baiak pancada.xml"/>
+
+
+    <!-- BONUS -->
+    <monster name="[BONUS] Ferumbras" file="A Ovos/Ascending Ferumbras.xml"/>
+    <monster name="[BONUS] Black knight" file="A Ovos/black knight.xml"/>
+    <monster name="[BONUS] Demodras" file="A Ovos/demodras.xml"/>
+    <monster name="[BONUS] Guzzlemaw" file="A Ovos/guzzlemaw.xml"/>
+    <monster name="[BONUS] Orshabaal" file="A Ovos/orshabaal.xml"/>
+    <monster name="[BONUS] Paiz the pauperizer" file="A Ovos/paiz the pauperizer.xml"/>
+  <!-- ACESSO 1 ! -->
   <monster name="Demon I" file="ACESSO1/demon.xml"/>
   <monster name="Hydra I" file="ACESSO1/hydra.xml"/>
   <monster name="Grim Reaper I" file="ACESSO1/grim reaper.xml"/>

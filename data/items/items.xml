@@ -1,6 +1,35 @@
 <?xml version="1.0" encoding="iso-8859-1"?>
 <items>
 
+	<item id="23807" article="a" name="[BONUS] Black Knight">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+	<item fromid="16107" toid="16108" article="a" name="[BONUS] Random">
+		<attribute key="weight" value="600" />
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+	</item>
+	<item fromid="13030" toid="13031" name="[BONUS] Paiz The Pauperizer">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="22642" article="a" name="[BONUS] Guzzlemaw">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="5791" article="a" name="[BONUS] Demodras">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="11754" article="a" name="[BONUS] Ferumbras">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+	<item id="11144" article="a" name="[BONUS] Orshabaal">
+		<attribute key="description" value="Este Item Sumona criaturas com otima exp (100 Clicks)" />
+		<attribute key="weight" value="600" />
+	</item>
+
 	<!-- VIP -->
 		<!-- backpacks -->
 		<item id="23816" article="a" name="Baiak Backpack">
@@ -2717,10 +2746,7 @@
 		<attribute key="description" value="retira red e black skull" />
 		<attribute key="weight" value="1800" />
 	</item>
-	<item id="23807" article="a" name="black knight doll">
-		<attribute key="description" value="My sad story is told by few living humans but many dead warriors." />
-		<attribute key="weight" value="1800" />
-	</item>
+
 	<item id="2109" article="a" name="football" />
 	<item id="2110" article="a" name="doll">
 		<attribute key="weight" value="650" />
@@ -9878,9 +9904,6 @@
 	</item>
 	<item fromid="5787" toid="5788" article="a" name="training dummy" />
 	<item fromid="5789" toid="5790" article="a" name="stuck axe" />
-	<item id="5791" article="a" name="stuffed dragon">
-		<attribute key="weight" value="850" />
-	</item>
 	<item fromid="5792" toid="5797" article="a" name="dice">
 		<attribute key="weight" value="200" />
 	</item>
@@ -20021,9 +20044,7 @@
 		<attribute key="corpseType" value="blood" />
 	</item>
 	<item fromid="11142" toid="11143" article="a" name="shrine" />
-	<item id="11144" article="a" name="nightmare doll">
-		<attribute key="weight" value="1800" />
-	</item>
+
 	<item fromid="11145" toid="11160" article="a" name="sand" />
 	<item id="11161" article="a" name="bonebeast trophy">
 		<attribute key="weight" value="500" />
@@ -20913,10 +20934,6 @@
 	<item id="11700" article="a" name="stone wall" />
 	<item id="11702" article="a" name="stone wall" />
 	<item fromid="11729" toid="11752" name="ground" />
-	<item id="11754" article="a" name="ferumbras doll">
-		<attribute key="description" value="It was awarded by Tibiopedia.pl." />
-		<attribute key="weight" value="1700" />
-	</item>
 	<item id="11755" article="a" name="ferumbras doll">
 		<attribute key="description" value="It was awarded by Tibiopedia.pl." />
 		<attribute key="weight" value="1700" />
@@ -22146,10 +22163,6 @@
 	<item fromid="13028" toid="13029" name="frozen heart">
 		<attribute key="description" value="The eternal love is awarded by TibiaTR.net." />
 		<attribute key="weight" value="2000" />
-	</item>
-	<item fromid="13030" toid="13031" name="draken doll">
-		<attribute key="description" value="This doll seems to be the favourite doll of the emperor. It was rewarded by TibiaNation.net" />
-		<attribute key="weight" value="1500" />
 	</item>
 	<item fromid="13032" toid="13033" name="music box">
 		<attribute key="description" value="The song inside is made of love. It was rewarded by TibiaSpace.com." />
@@ -24887,10 +24900,6 @@
 	</item>
 	<item fromid="16105" toid="16106" article="a" name="medusa skull">
 		<attribute key="weight" value="1000" />
-	</item>
-	<item fromid="16107" toid="16108" article="a" name="doll of Durin The Almighty">
-		<attribute key="weight" value="4000" />
-		<attribute key="description" value="The mightiest. The only. God of all dwarfs. Awarded by Tibia Bariloche!" />
 	</item>
 	<item fromid="16109" toid="16110" article="a" name="majestic shield">
 		<attribute key="weight" value="15000" />
@@ -30741,9 +30750,6 @@
 	</item>
 	<item id="22644" article="a" name="christmas cookie tray">
 		<attribute key="weight" value="650" />
-	</item>
-	<item id="22642" article="a" name="frazzlemaw santa">
-		<attribute key="weight" value="600" />
 	</item>
 	<item id="22643" article="a" name="leaf golem santa">
 		<attribute key="weight" value="650" />
