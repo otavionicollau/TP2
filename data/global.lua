@@ -1,5 +1,6 @@
 dofile('data/lib/lib.lua')
 dofile('data/zombieEvent.lua')
+dofile('data/vipsystem.lua')
 
 STORAGEVALUE_PROMOTION = 30018
 

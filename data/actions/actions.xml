@@ -79,7 +79,6 @@
   <action uniqueid="2361" script="pitsofinferno/frozenstarlight.lua"/>
   <action uniqueid="6529" script="pitsofinferno/infernalbolt.lua"/>
   <action uniqueid="6132" script="pitsofinferno/softboots.lua"/>
-  <action uniqueid="5791" script="pitsofinferno/stuffeddragon.lua"/>
   <action uniqueid="6528" script="pitsofinferno/avenger.lua"/>
   <action uniqueid="5803" script="pitsofinferno/arbalest.lua"/>
   <action uniqueid="2453" script="pitsofinferno/arcanestaff.lua"/>

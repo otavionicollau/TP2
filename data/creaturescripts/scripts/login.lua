@@ -1,14 +1,18 @@
 function onLogin(player)
-	local loginStr = "Welcome to " .. configManager.getString(configKeys.SERVER_NAME) .. "!"
+
+	player:loadVipData()
+	player:updateVipTime()
+
+	local loginStr = "Bem vindo ao " .. configManager.getString(configKeys.SERVER_NAME) .. "!"
 	if player:getLastLoginSaved() <= 0 then
-		loginStr = loginStr .. " Please choose your outfit."
+		loginStr = loginStr .. " Por favor mude de outfit."
 		player:sendOutfitWindow()
 	else
 		if loginStr ~= "" then
 			player:sendTextMessage(MESSAGE_STATUS_DEFAULT, loginStr)
 		end
 
-		loginStr = string.format("Your last visit was on %s.", os.date("%a %b %d %X %Y", player:getLastLoginSaved()))
+		loginStr = string.format("Sua ultima visita foi has %s.", os.date("%a %b %d %X %Y", player:getLastLoginSaved()))
 	end
 	player:sendTextMessage(MESSAGE_STATUS_DEFAULT, loginStr)
 
@@ -39,11 +43,13 @@ function onLogin(player)
 	player:registerEvent("DodgeSystem")
 	player:registerEvent("CriticalSystem")
 	player:registerEvent("Promo20")
-  player:registerEvent("AutoLoot")
+    player:registerEvent("AutoLoot")
 	player:registerEvent("taskI")
 	player:registerEvent("taskII")
 	player:registerEvent("taskIII")
 	player:registerEvent("taskIV")
+
+
 
 -- Critical System
 if player:getCriticalLevel() == -1 then

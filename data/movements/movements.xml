@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <movements>
+	
+	<movevent event="StepIn" actionid="1500" script="viptiles.lua"/>
+	<movevent event="StepIn" actionid="1501" script="viptiles.lua"/>
+
   <!-- EDITADOS -->
 
 <!-- kina SET  -->
